@@ -1,0 +1,15 @@
+/home/scrviy/dev/dotnet/EditorHtml/bin/Debug/net7.0/EditorHtml
+/home/scrviy/dev/dotnet/EditorHtml/bin/Debug/net7.0/EditorHtml.deps.json
+/home/scrviy/dev/dotnet/EditorHtml/bin/Debug/net7.0/EditorHtml.runtimeconfig.json
+/home/scrviy/dev/dotnet/EditorHtml/bin/Debug/net7.0/EditorHtml.dll
+/home/scrviy/dev/dotnet/EditorHtml/bin/Debug/net7.0/EditorHtml.pdb
+/home/scrviy/dev/dotnet/EditorHtml/obj/Debug/net7.0/EditorHtml.csproj.AssemblyReference.cache
+/home/scrviy/dev/dotnet/EditorHtml/obj/Debug/net7.0/EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+/home/scrviy/dev/dotnet/EditorHtml/obj/Debug/net7.0/EditorHtml.AssemblyInfoInputs.cache
+/home/scrviy/dev/dotnet/EditorHtml/obj/Debug/net7.0/EditorHtml.AssemblyInfo.cs
+/home/scrviy/dev/dotnet/EditorHtml/obj/Debug/net7.0/EditorHtml.csproj.CoreCompileInputs.cache
+/home/scrviy/dev/dotnet/EditorHtml/obj/Debug/net7.0/EditorHtml.dll
+/home/scrviy/dev/dotnet/EditorHtml/obj/Debug/net7.0/refint/EditorHtml.dll
+/home/scrviy/dev/dotnet/EditorHtml/obj/Debug/net7.0/EditorHtml.pdb
+/home/scrviy/dev/dotnet/EditorHtml/obj/Debug/net7.0/EditorHtml.genruntimeconfig.cache
+/home/scrviy/dev/dotnet/EditorHtml/obj/Debug/net7.0/ref/EditorHtml.dll
